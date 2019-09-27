@@ -22,7 +22,7 @@ body{
 
 .main-header {
   position: relative;
-  background:url(img/fondo-Uniformes.jpg);
+  background:url(img/fondo.jpg);
   background-size: cover;
   min-height: 600px;
 }
@@ -36,7 +36,7 @@ body{
 }
 
 #banner{position: relative;
-  background:url(http://localhost/terapia/img/banner_1.jpg);
+  background:url(http://socialmediamanagers.com.ve/katyterapia/img/banner_1.jpg);
   background-size: cover;
   top: 0;
   left: 0;
@@ -47,7 +47,7 @@ body{
 }
 
 #somos{position: relative;
-  background:url(http://localhost/terapia/img/banner_2.jpg);
+  background:url(http://socialmediamanagers.com.ve/katyterapia/img/banner_2.jpg);
   background-size: cover;
   top: 0;
   left: 0;
@@ -57,7 +57,7 @@ body{
   text-shadow: #1d1d1d;
 }
 #masajes{position: relative;
-  background:url(http://localhost/terapia/img/banner_3.jpg);
+  background:url(http://socialmediamanagers.com.ve/katyterapia/img/banner_3.jpg);
   background-size: cover;
   top: 0;
   left: 0;
@@ -67,7 +67,7 @@ body{
   text-shadow: #1d1d1d;
 }
 #banner4{position: relative;
-  background:url(http://localhost/terapia/img/banner_4.jpg);
+  background:url(http://socialmediamanagers.com.ve/katyterapia/img/banner_4.jpg);
   background-size: cover;
   top: 0;
   left: 0;
@@ -85,7 +85,7 @@ body{
   height: 100%;
 }
 #contacto{position: relative;
-  background:url(http://localhost/terapia/img/banner_contacto.jpg);
+  background:url(http://socialmediamanagers.com.ve/katyterapia/img/banner_contacto.jpg);
   background-size: cover;
   top: 0;
   left: 0;
